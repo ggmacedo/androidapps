@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ex2</string>
+
+    <string name="cod">Código:</string>
+    <string name="nome">Nome:</string>
+    <string name="endereco">Endereço:</string>
+    <string name="exibir">Exibir</string>
+
+</resources>

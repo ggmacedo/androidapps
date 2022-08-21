@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Aula2</string>
+    <string name="n1">Primeiro Número:</string>
+    <string name="n2">Segundo Números:</string>
+    <string name="somar">SOMAR</string>
+
+</resources>

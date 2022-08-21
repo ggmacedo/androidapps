@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ex2</string>
+
+    <string name="cod">Código:</string>
+    <string name="nome">Nome:</string>
+    <string name="endereco">Endereço:</string>
+    <string name="inserir">Inserir</string>
+    <string name="alterar">Alterar</string>
+    <string name="excluir">Excluir</string>
+    <string name="primeiro">p</string>
+    <string name="segundo">s</string>
+    <string name="terceiro">t</string>
+    <string name="querto">q</string>
+
+
+</resources>

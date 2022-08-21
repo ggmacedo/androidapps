@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vector</string>
+    <string name="codigo">Código:</string>
+    <string name="nome">Nome:</string>
+    <string name="endereco">Endereço:</string>
+    <string name="primeiro">&#60;&#60;</string>
+    <string name="anterior">&#60;</string>
+    <string name="proximo">&#62;</string>
+    <string name="ultimo">&#62;&#62;</string>
+    <string name="inserir">Inserir</string>
+    <string name="alterar">Alterar</string>
+    <string name="excluir">Excluir</string>
+    <string name="telefone">Telefone:</string>
+    <string name="addTelefone">+</string>
+</resources>
